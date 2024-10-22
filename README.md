@@ -323,7 +323,7 @@ https://github.com/user-attachments/assets/fd73bce2-e912-45cd-9209-336dc1dea3b9
 
 ---
 
-### 7. 발표자료<a id="etc"></a>
+## 7. 발표자료<a id="etc"></a>
 
 ![image](https://github.com/user-attachments/assets/7d4115b3-ab40-4c87-bcb1-6391a1e8dadd)
 
