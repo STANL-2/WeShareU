@@ -31,7 +31,10 @@
    - [기능명세서](#기능명세서)
    - [WBS](#WBS)
    - [화면설계서](#화면설계서)
-   - [AS-IS TO-BE](#AS-IS TO-BE)
+   - [AS-IS TO-BE](#as-is-to-be)
+   - [살행결과](#실행결과)
+   - [CI/CD] (#CI/CD)
+7.[발표 자료](#etc)
 ---
 
 ## Team _STANL-2_<a id="팀-소개"></a>
@@ -168,7 +171,7 @@
 
 
 
-### 6. 실행 결과
+### 6. 실행 결과<a id="실행결과과"></a>
 
 <details>
 <summary>👨‍👩‍👧‍👦회원</summary>
