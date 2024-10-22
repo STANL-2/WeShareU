@@ -127,7 +127,8 @@
 
 ### 1. 논리 모델링 <a id="2-논리-모델링"></a>
 
-![image](https://github.com/user-attachments/assets/fc56ae44-6b45-43f6-a66a-cb93f36c7e3f)
+![image](https://github.com/user-attachments/assets/2b8d6d61-4d78-4380-b7c0-52db65938084)
+
 
 ### 2. 물리 모델링 <a id="3-물리-모델링"></a>
 
@@ -171,7 +172,7 @@ https://github.com/user-attachments/assets/f56d6c30-1e88-4b80-a00a-c45b48a919de
 
 </details>
 <details>
-<summary>로그인 </summary>
+<summary>로그인 </summary>
 
    
 https://github.com/user-attachments/assets/b4848f50-fb87-4b7b-820a-872113fe6b4e
