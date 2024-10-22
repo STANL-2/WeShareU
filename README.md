@@ -16,8 +16,6 @@
    - [기대 효과](#6-기대-효과)
 5. [설계 문서](#설계-문서)
    - [System Architecture](#system-architecture)
-   - [주요 기능 FLOW CHART](#주요-기능-flow-chart)
-   - [OAuth 2.0 Sequence Diagram](#OAuth2SequenceDiagram)
    - [DDD](#ddd)
      - [Event Storming](#1-event-storming)
      - [Bounded Context](#2-bounded-context)
@@ -157,7 +155,7 @@
 ### 4. 화면 설계서</a>
 ![image](https://github.com/user-attachments/assets/b5be8cc1-59d8-43c2-b26d-0af5660c27e4)
 ![image](https://github.com/user-attachments/assets/60be1083-44a5-4aab-847e-d46527bad78e)
-8![image](https://github.com/user-attachments/assets/3ee516de-101e-4cb4-a662-b81c6437cf18)
+![image](https://github.com/user-attachments/assets/3ee516de-101e-4cb4-a662-b81c6437cf18)
 
 ### 5. AS IS TO BE<a id="as-is-to-be"></a>
 
