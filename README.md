@@ -35,6 +35,7 @@
    - [살행결과](#실행결과)
    - [CI/CD](#CI/CD)
 7. [발표 자료](#etc)
+8. [동료 평가](#Evaluation)
 
 ---
 
@@ -423,7 +424,7 @@ pipeline {
 ![image](https://github.com/user-attachments/assets/3043a1ec-9cad-41c6-8263-a5996e631249)
 
 
-## 8. 동료 평가
+## 8. 동료 평가<a id="Evaluation"></a>
 
 <details>
 <summary>동료 평가 확인하기</summary>
