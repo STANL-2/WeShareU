@@ -18,7 +18,12 @@
    - [System Architecture](#system-architecture)
    - [DDD](#ddd)
      - [Event Storming](#1-event-storming)
-     - [Bounded Context](#2-bounded-context)
+     - [External System](#2-external-system)
+     - [Command & Actor](#3-command-and-actor-system)
+     - [Aggregate](#4-aggregate)
+     - [Bounded Context](#5-bounded-context)
+     - [Context Mapping](#6-context_mapping)
+     
    - [DB 모델링](#db-모델링)
      - [논리 모델링](#2-논리-모델링)
      - [물리 모델링](#3-물리-모델링)
