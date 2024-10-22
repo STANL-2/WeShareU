@@ -160,7 +160,7 @@
 
 ![image](https://github.com/user-attachments/assets/82cb9fd2-2de6-4757-ad97-a1de9b63a7be)
 
-### 6. 실행 결과
+### 5. 실행 결과
 
 <details>
 <summary>회원 기능</summary>
@@ -173,7 +173,7 @@ https://github.com/user-attachments/assets/f56d6c30-1e88-4b80-a00a-c45b48a919de
 
 </details>
 <details>
-<summary>로그인 </summary>
+<summary>로그인 </summary>
 
    
 https://github.com/user-attachments/assets/b4848f50-fb87-4b7b-820a-872113fe6b4e
@@ -228,14 +228,6 @@ https://github.com/user-attachments/assets/38522821-f81c-42ba-92bb-ac025ae1a526
    
 </details>
 <details>
-<summary>게시글 댓글</summary>
-
-
-https://github.com/user-attachments/assets/67ea3a26-0d3b-4a63-8fc3-8bb76824c0a4
-
-   
-</details>
-<details>
 <summary>게시글 댓글 알람</summary>
 
 
@@ -254,14 +246,6 @@ https://github.com/user-attachments/assets/37668fff-ce2e-44a7-8293-50d6081e6586
 
 
 https://github.com/user-attachments/assets/78f0ce16-44fc-4da5-9931-9eeda17828e0
-
-   
-</details>
-<details>
-<summary>게시글 댓글 알람</summary>
-
-
-https://github.com/user-attachments/assets/37668fff-ce2e-44a7-8293-50d6081e6586
 
    
 </details>
