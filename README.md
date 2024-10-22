@@ -14,7 +14,7 @@
    - [차별점](#4-차별점)
    - [핵심 기능](#5-핵심-기능)
    - [기대 효과](#6-기대-효과)
-5. [설계 문서](#설계-문서)
+4. [설계 문서](#설계-문서)
    - [System Architecture](#system-architecture)
    - [DDD](#ddd)
      - [Event Storming](#1-event-storming)
@@ -23,8 +23,7 @@
      - [Aggregate](#4-aggregate)
      - [Bounded Context](#5-bounded-context)
      - [Context Mapping](#6-context_mapping)
-     
-   - [DB 모델링](#db-모델링)
+5.  [DB 모델링](#db-모델링)
      - [논리 모델링](#2-논리-모델링)
      - [물리 모델링](#3-물리-모델링)
 6. [산출물](#산출물)
