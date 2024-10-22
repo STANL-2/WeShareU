@@ -35,6 +35,7 @@
    - [살행결과](#실행결과)
    - [CI/CD] (#CI/CD)
 7.[발표 자료](#etc)
+
 ---
 
 ## Team _STANL-2_<a id="팀-소개"></a>
@@ -171,7 +172,7 @@
 
 
 
-### 6. 실행 결과<a id="실행결과과"></a>
+### 6. 실행 결과<a id="실행결과"></a>
 
 <details>
 <summary>👨‍👩‍👧‍👦회원</summary>
@@ -322,7 +323,7 @@ https://github.com/user-attachments/assets/fd73bce2-e912-45cd-9209-336dc1dea3b9
 
 ---
 
-### 6. ETC<a id="etc"></a>
+### 7. 발표자료<a id="etc"></a>
 
 ![image](https://github.com/user-attachments/assets/7d4115b3-ab40-4c87-bcb1-6391a1e8dadd)
 
