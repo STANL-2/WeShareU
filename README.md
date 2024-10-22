@@ -150,14 +150,20 @@
 ![image](https://github.com/user-attachments/assets/fd7dd066-3180-4e56-afac-8d63645fcd91)
 ![image](https://github.com/user-attachments/assets/28fa0db9-9315-4acc-b767-baed89d83189)
 
-### 3. 와이어 프레임<a id="와이어프레임"></a>
-
-![image](https://github.com/user-attachments/assets/3be68d1b-2558-4dc6-b4f4-b583b4b03636)
-![image](https://github.com/user-attachments/assets/6ececb3f-39d6-4f71-a8bf-31c59db8e692)
-
-### 4. WBS<a id="WBS"></a>
+### 3. WBS<a id="WBS"></a>
 
 ![image](https://github.com/user-attachments/assets/82cb9fd2-2de6-4757-ad97-a1de9b63a7be)
+
+### 4. 화면 설계서</a>
+![image](https://github.com/user-attachments/assets/b5be8cc1-59d8-43c2-b26d-0af5660c27e4)
+![image](https://github.com/user-attachments/assets/60be1083-44a5-4aab-847e-d46527bad78e)
+8![image](https://github.com/user-attachments/assets/3ee516de-101e-4cb4-a662-b81c6437cf18)
+
+### 5. AS IS TO BE<a id="as-is-to-be"></a>
+
+![image](https://github.com/user-attachments/assets/b63c2582-a926-4080-aeeb-83b61b949e75)
+
+
 
 ### 6. 실행 결과
 
@@ -310,9 +316,12 @@ https://github.com/user-attachments/assets/fd73bce2-e912-45cd-9209-336dc1dea3b9
 
 ---
 
-### 6. AS IS TO BE<a id="as-is-to-be"></a>
+### 6. ETC<a id="etc"></a>
 
-![image](https://github.com/user-attachments/assets/b63c2582-a926-4080-aeeb-83b61b949e75)
+![image](https://github.com/user-attachments/assets/7d4115b3-ab40-4c87-bcb1-6391a1e8dadd)
+
+![image](https://github.com/user-attachments/assets/3043a1ec-9cad-41c6-8263-a5996e631249)
+
 
 
 
