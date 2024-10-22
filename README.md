@@ -162,7 +162,7 @@
 ### 6. 실행 결과
 
 <details>
-<summary>회원 기능</summary>
+<summary>👨‍👩‍👧‍👦회원</summary>
 <details>
 <summary>회원가입 & 이메일 인증  </summary>
 
@@ -192,7 +192,7 @@ https://github.com/user-attachments/assets/f0776a3b-9a12-46fc-8384-d4624c903f1c
 ---
 
 <details>
-<summary>게시글 기능</summary>
+<summary>📋게시글</summary>
 
 <details>
 <summary>게시글 조회</summary>
@@ -247,7 +247,7 @@ https://github.com/user-attachments/assets/37668fff-ce2e-44a7-8293-50d6081e6586
 ---
 
 <details>
-<summary>공유물품</summary>
+<summary>🧳공유물품</summary>
 <details>
 <summary>공유물품 조회 & 대여</summary>
 
@@ -256,20 +256,12 @@ https://github.com/user-attachments/assets/78f0ce16-44fc-4da5-9931-9eeda17828e0
 
    
 </details>
-<details>
-<summary>게시글 댓글 알람</summary>
-
-
-https://github.com/user-attachments/assets/37668fff-ce2e-44a7-8293-50d6081e6586
-
-   
-</details>
 </details>
 
 ---
 
 <details>
-<summary>공지사항</summary>
+<summary>📢공지사항</summary>
 <details>
 <summary>공지사항 조회</summary>
 
@@ -283,12 +275,34 @@ https://github.com/user-attachments/assets/142f02dc-59b5-4c4b-b475-1d80cf719826
 ---
 
 <details>
-<summary>FAQ & 번역</summary>
+<summary>🙋🏻FAQ & 번역</summary>
 <details>
 <summary>FAQ 조회 & 번역 </summary>
 
 
 https://github.com/user-attachments/assets/beaf8fbe-b669-48e0-bff2-129666cdcda4
+
+   
+</details>
+</details>
+
+---
+
+<details>
+<summary>💌채팅</summary>
+<details>
+<summary>채팅방 생성 & 채팅</summary>
+
+
+https://github.com/user-attachments/assets/4a0f8642-282c-407e-88e5-aa801c854f7b
+
+   
+</details>
+<details>
+<summary>게시글에서 채팅보내기</summary>
+
+
+https://github.com/user-attachments/assets/fd73bce2-e912-45cd-9209-336dc1dea3b9
 
    
 </details>
