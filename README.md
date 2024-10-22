@@ -34,7 +34,7 @@
    - [AS-IS TO-BE](#as-is-to-be)
    - [살행결과](#실행결과)
    - [CI/CD] (#CI/CD)
-7.[발표 자료](#etc)
+7. [발표 자료](#etc)
 
 ---
 
@@ -322,6 +322,8 @@ https://github.com/user-attachments/assets/fd73bce2-e912-45cd-9209-336dc1dea3b9
 </details>
 
 ---
+
+<br>
 
 ## 7. 발표자료<a id="etc"></a>
 
