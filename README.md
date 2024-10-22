@@ -327,6 +327,91 @@ https://github.com/user-attachments/assets/fd73bce2-e912-45cd-9209-336dc1dea3b9
 
 ---
 
+### 7. CI/CD
+#### Jenkins CI/CD
+
+#### Jenkins Code
+```
+pipeline {
+    agent any
+
+    tools {
+        gradle 'gradle'
+        jdk 'openJDK17'
+    }
+
+    environment {
+        DOCKERHUB_CREDENTIALS = credentials('DOCKERHUB_PASSWORD')
+        DOCKERHUB_USERNAME = 'hjeu'
+        GITHUB_URL = 'https://github.com/STANL-2/STANL_Backend.git'
+    }
+
+    stages {
+        stage('Preparation') {
+            steps {
+                script {
+                    if (isUnix()) {
+                        sh 'docker --version'
+                    } else {
+                        bat 'docker --version'
+                    }
+                }
+            }
+        }
+        stage('Source Build') {
+            steps {
+                script {
+                    if (isUnix()) {
+                        sh "chmod +x ./gradlew"
+                        sh "./gradlew clean build -x test"
+                    } else {
+                        bat "gradlew.bat clean build -x test"
+                    }
+                }
+            }
+        }
+        stage('Container Build and Push') {
+            steps {
+                script {
+                    dir('C:/STANL_Backend') {  
+                        withCredentials([usernamePassword(credentialsId: 'DOCKERHUB_PASSWORD', usernameVariable: 'DOCKER_USER', passwordVariable: 'DOCKER_PASS')]) {
+                            if (isUnix()) {
+                                sh "docker build -t ${DOCKERHUB_USERNAME}/weshareu-backend:latest ."
+                                sh "docker login -u ${DOCKER_USER} -p ${DOCKER_PASS}"
+                                sh "docker push ${DOCKERHUB_USERNAME}/weshareu-backend:latest"
+                            } else {
+                                bat "docker build -t ${DOCKERHUB_USERNAME}/weshareu-backend:latest ."
+                                bat "docker login -u %DOCKER_USER% -p %DOCKER_PASS%"
+                                bat "docker push ${DOCKERHUB_USERNAME}/weshareu-backend:latest"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    post {
+        always {
+            script {
+                if (isUnix()) {
+                    sh 'docker logout'
+                } else {
+                    bat 'docker logout'
+                }
+            }
+        }
+        success {
+            echo 'Pipeline succeeded!'
+        }
+        failure {
+            echo 'Pipeline failed!'
+        }
+    }
+}
+```
+
+
 <br>
 
 ## 7. 발표자료<a id="etc"></a>
