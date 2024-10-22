@@ -329,6 +329,8 @@ https://github.com/user-attachments/assets/fd73bce2-e912-45cd-9209-336dc1dea3b9
 
 ### 7. CI/CD
 #### Jenkins CI/CD
+![jenkins자동배포](https://github.com/user-attachments/assets/da1bb444-9239-4de8-9ba1-4125554da92f)
+
 
 #### Jenkins Code
 ```
