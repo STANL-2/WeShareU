@@ -27,8 +27,11 @@
      - [논리 모델링](#2-논리-모델링)
      - [물리 모델링](#3-물리-모델링)
 6. [산출물](#산출물)
-   - [와이어 프레임](#와이어프레임)
+   - [요구사항 명세서](#요구사항명세서)
    - [기능명세서](#기능명세서)
+   - [WBS](#WBS)
+   - [화면설계서](#화면설계서)
+   - [와이어 프레임](#와이어프레임)
 ---
 
 ## Team _STANL-2_<a id="팀-소개"></a>
@@ -154,7 +157,7 @@
 
 ![image](https://github.com/user-attachments/assets/82cb9fd2-2de6-4757-ad97-a1de9b63a7be)
 
-### 4. 화면 설계서</a>
+### 4. 화면 설계서<a id="화면설계서"></a>
 ![image](https://github.com/user-attachments/assets/b5be8cc1-59d8-43c2-b26d-0af5660c27e4)
 ![image](https://github.com/user-attachments/assets/60be1083-44a5-4aab-847e-d46527bad78e)
 ![image](https://github.com/user-attachments/assets/3ee516de-101e-4cb4-a662-b81c6437cf18)
