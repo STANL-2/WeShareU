@@ -245,14 +245,6 @@ https://github.com/user-attachments/assets/38522821-f81c-42ba-92bb-ac025ae1a526
    
 </details>
 <details>
-<summary>게시글 댓글</summary>
-
-
-https://github.com/user-attachments/assets/67ea3a26-0d3b-4a63-8fc3-8bb76824c0a4
-
-   
-</details>
-<details>
 <summary>게시글 댓글 알람</summary>
 
 
