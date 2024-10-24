@@ -51,7 +51,7 @@
 # 기술 스택 <a id="기술-스택"></a>
 
 ### 1. Backend <a id="1-backend"></a>
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,postman,idea& perline="/> 
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle& perline="/> 
 
 ### 2. Frontend <a id="2-frontend"></a>
 <img src="https://skillicons.dev/icons?i=html,css,js,vue& perline="/> 
@@ -63,7 +63,7 @@
 <img src="https://skillicons.dev/icons?i=jenkins,docker,nginx,kubernetes& perline="/> 
 
 ### 5. ETC <a id="5-etc"></a>
-<img src="https://skillicons.dev/icons?i=aws,npm,notion,discord,github,ai,i& perline="/> 
+<img src="https://skillicons.dev/icons?i=aws,npm,notion,discord,github,postman,ideai& perline="/> 
 
 # 프로젝트 개요 <a id="프로젝트-개요"></a>
 ## 1. 주제 <a id="1-주제"></a>
